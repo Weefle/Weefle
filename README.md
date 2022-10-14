@@ -1,104 +1,65 @@
-# My first HackMD note (change me!)
+# **Benoît DUBOIS**
+Apprenti ingénieur à Unilasalle Amiens en Réseaux Informatiques et Objets Connectés
 
-###### tags: `Tag(change me!)`
+## Expériences professionnelles
 
-> This note is yours, feel free to play around.  :video_game: 
-> Type on the left :arrow_left: and see the rendered result on the right. :arrow_right: 
+### Gueudet Automobile
+->_Amiens_
 
-## :memo: Where do I start?
+**Développeur base de donnée**
+->_Septembre 2020 à maintenant_
 
-### Step 1: Change the title and add a tag
+- Création d’un workflow ETL pour les données de l’entreprise et manipulation de cubes, TCD, et création de requêtes SQL, DAX
+- Développement d’une application interne à l’entreprise simplifiant l’accès aux données entreprise et KPI
 
-- [x] Create my first HackMD note (this one!)
-- [ ] Change its title
-- [ ] Add a tag
+### DUT GEII
+->_Cuffies_
 
-:rocket: 
+**Développeur d'application, Application bancaire**
+->_Mai 2020 à Juin 2020_
 
-### Step 2: Write something in Markdown
+- Création d’une application de gestion bancaire avec Android Studio (Java),
+- Gestion des données avec Firebase (NoSQL)
+- Passage de paramètres entre différentes vues (Intent)
 
-Let's try it out!
-Apply different styling to this paragraph:
-**HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
+## Formations
 
-- [x] **Bold**
-- [ ] *Italic*
-- [ ] Super^script^
-- [ ] Sub~script~
-- [ ] ~~Crossed~~
-- [x] ==Highlight==
+### Unilasalle Amiens
+->_2020 à maintenant_
+**Réseaux Informatiques et Objets Connectés**, _Amiens, France_
+- Apprentissage pour un contrat de 3 ans dans le domaine Réseaux Informatiques et Objets Connectés
+- Etude détaillée des réseaux informatiques (Web, Mobile, Administration Système)
+- Etude détaillée des objets connectés (IoT, Microcontrôleur)
 
-:::info
-:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
+### IUT de l'Aisne
+->_2018 à 2020_
+**Génie Electrique et Informatique Industrielle**,  _Cuffies, France_
+- Études en électrotechnique, énergie, informatique
+- Habilitation électrique de niveau B1
+- Projets programmation de robots, applications Android
+- 
+### Lycée Léonard de Vinci
+->_2015 à 2018_
+**Baccalauréat Scientifique Science de l'Ingénieur**,  _Soissons, France_
+- Études génie électrique et génie mécanique
+- Projet Scientifique: couverture de piscine automatique
 
-![](https://i.imgur.com/Cnle9f9.png)
-:::
+## Compétences
+Langages de programmation: `Java` `C#` `SQL` `DAX` `HTML` `CSS` `Javascript` `.NET` `Blazor` `Git`
 
-> Drag-n-drop image from your file system to the editor to paste it!
+Logiciels: `Android Studio` `IntelliJ IDEA` `Visual Studio` `Power BI` `Matlab` `Microsoft Office`
 
-### Step 3: Invite your team to collaborate!
+Langues: `English B2 Certified` `Spanish B1`
 
-Click on the <i class="fa fa-share-alt"></i> **Sharing** menu :arrow_upper_right: and invite your team to collaborate on this note!
+## Centres d'intérêts
+Musique: `Piano` `Guitar`
 
-![permalink setting demo](https://i.imgur.com/PjUhQBB.gif)
+Sport: `Musculation` `Tennis table`
 
-- [ ] Register and sign-in to HackMD (to use advanced features :tada: ) 
-- [ ] Set Permalink for this note
-- [ ] Copy and share the link with your team
-
-:::info
-:pushpin: Want to learn more? ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials) 
-:::
-
----
-
-## BONUS: More cool ways to HackMD!
-
-- Table
-
-| Features          | Tutorials               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
-
-[GitHub-Sync]: https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github
-[HackMD-it]: https://hackmd.io/c/tutorials/%2Fs%2Fhackmd-it
-[Book-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book
-[Slide-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-slide-deck
-[Share-Publish]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-publish-note
-
-- LaTeX for formulas
-
-$$
-x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
-
-- Code block with color and line numbers：
-```javascript=16
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-- UML diagrams
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
-- Auto-generated Table of Content
-[ToC]
-
-> Leave in-line comments! [color=#3b75c6]
-
-- Embed YouTube Videos
-
-{%youtube PJuNmlE74BQ %}
-
-> Put your cursor right behind an empty bracket {} :arrow_left: and see all your choices.
-
-- And MORE ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials)
+## Coordonnées
+Adresse: 52 rue du general pille, 02200 Soissons
+Portable: +33644025774
+Mail: benoitduboispro@gmail.com
+Permis: B
+Github: https://github.com/Weefle
+LinkedIn: https://www.linkedin.com/in/benoit-dubois-55484b165/
