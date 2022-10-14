@@ -45,15 +45,15 @@ Langages de programmation: `Java` `C#` `SQL` `DAX` `HTML` `CSS` `Javascript` `.N
 
 Logiciels: `Android Studio` `IntelliJ IDEA` `Visual Studio` `Power BI` `Matlab` `Microsoft Office`
 
-Langues: `English B2 Certified` `Spanish B1`
+Langues: `Anglais B2 Certifié` `Espagnol B1`
 
 ## Centres d'intérêts
-Musique: `Piano` `Guitar`
+Musique: `Piano` `Guitare`
 
-Sport: `Musculation` `Tennis table`
+Sport: `Musculation` `Tennis de table`
 
 ## Coordonnées
-**Adresse:** 52 rue du general pille, 02200 Soissons
+**Adresse:** 52 Rue du Général Pillé, 02200 Soissons
 
 **Portable:** +33644025774
 
