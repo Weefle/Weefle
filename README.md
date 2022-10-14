@@ -54,9 +54,13 @@ Sport: `Musculation` `Tennis table`
 
 ## Coordonnées
 **Adresse:** 52 rue du general pille, 02200 Soissons
+
 **Portable:** +33644025774
+
 **Mail:** benoitduboispro@gmail.com
+
 **Permis:** B
+
 **Réseaux:** 
 * [Github](https://github.com/Weefle)
 * [LinkedIn](https://www.linkedin.com/in/benoit-dubois-55484b165/)
