@@ -1,50 +1,93 @@
+# Benoît DUBOIS - Ingénieur Logiciel
+
+### 📇 Informations
+
+📍 Reims, France
+
+✉️ [weefle@icloud.com](mailto:weefle@icloud.com)
+
+📞 +33 6 44 02 57 74
+
+🚗 Permis B
+
+🔗 [GitHub -](https://github.com/Weefle) [LinkedIn](https://www.linkedin.com/in/benoit-dubois-pro)
+
+---
+
+### 🛠️ Compétences
+
+**📚 Langages**
+
+C#, Java, Python, C, TypeScript, Go
+
+**🚀 Frameworks**
+
+.NET, React, Angular, SignalR, Node-Red, Docker, Git, Jira
+
+**☁ Clouds**
+
+SQL, NoSQL, GCP, Docker, BigQuery, Redis, Github, CI/CD
+
+**💻 Systèmes**
+
+Windows, Linux, MacOS, Arduino, Raspberry, ESP32
+**⚙️ Méthodes**
+
+Agile (Scrum, Kanban), gestion de projets, documentation technique, formation utilisateurs
+
+---
+
+### 🌍 Langues
+
+🇬🇧 Anglais – Courant
+
+🇪🇸 Espagnol - Base
+
 ### 🎯 À propos
 
-Passionné par les technologies innovantes, spécialisé en développement web, automatisation, architecture logicielle et transformation digitale. J'accompagne les entreprises dans la modernisation et l’optimisation de leurs systèmes d'information
+**Ingénieur** en **logiciel back-end** et **systèmes industriels,** spécialisé en MES, API et bases de données. J’accompagne les projets de la phase test à l’industrialisation. Passionné par l’**industrie 4.0** et l’**IoT**, je conçois des solutions **fiables** et **évolutives**.
 
 ---
 
 ### 💼 Expériences professionnelles
 
-### 🏢 Abylsen – Consultant .Net / BDD
+### 🏢 Abylsen /  Trèves – Consultant IT
 
-📍 Metz | 🗓️ 2023 – aujourd’hui
+📍 Metz / Reims | 🗓️ 2023 – aujourd’hui
 
-- Maintenance et évolution d’applications ([ASP.NET](http://asp.net/), JQuery)
-- Développement et optimisation BDD (BigQuery, PL / SQL)
-- Suivi et gestion de projets Agile (Jira, Scrum, Kanban)
-- Versionning (Git, TFS), déploiement (PowerShell, CI / CD)
-- Optimisation d’un logiciel MES (SAP, SQLite, Sockets)
+- Développement et optimisation d’un **logiciel MES** en environnement industriel international
+- **Back-end temps réel** et systèmes connectés pour le suivi en production (SQLite, Redis, SignalR)
+- **Déploiement** et amélioration continue (Docker, Git, Jira)
+- **Gestion de projets industriels** : coordination avec métiers, déploiement en usine, formation des utilisateurs
 
 ---
 
-### 🏢 Gueudet 1880 – Développeur .NET / BDD
+### 🏢 Gueudet 1880 – Développeur Full Stack
 
 📍 Amiens | 🗓️ 2020 – 2023
 
-- Workflow intégration ETL (SSIS), cubes (SSAS)
-- App web interne annuaire (.NET Blazor), app mobile (MAUI)
-- Synchronisation des collaborateurs (Active Directory)
-- Automatisation de processus métier (UiPath, Orchestrator)
+- **Automatisation** de processus métier avec **UiPath & OCR**
+- Développement d’**applications internes** (.NET Blazor, MAUI, AD)
+- Intégration de données via **ETL SSIS**, cubes analytiques
+- Contribution à la **digitalisation des processus métiers**
 
 ---
 
 ### 🎓 Formations
 
-### 🎓 Unilasalle – Ingénieur réseaux & IoT
+### 🎓 ESIEE / Unilasalle – Ingénieur réseaux & IoT
 
 📍 Amiens | 🗓️ 2020 – 2023
 
-- Réseaux, systèmes, cloud et virtualisation (AWS, Terraform)
-- Développement web et mobile (Kotlin, Flutter, Angular)
-- Projets IoT, système et réseau (LoRa, Node-Red, MQTT)
-- Intelligence artificielle (Machine Learning, Deep Learning)
+- **Développement** (Python, C, Kotlin, Flutter)
+- **Cloud** & virtualisation (AWS, Terraform)
+- IoT & **systèmes embarqués** (LoRa, MQTT, RTOS)
+- **IA** (Machine Learning, Deep Learning)
 
 ### 🎓 IUT de l’Aisne – DUT GEII
 
 📍 Cuffies | 🗓️ 2018 – 2020
 
-- Informatique industrielle, automatismes, signaux (Matlab)
-- Automates Siemens / Schneider (TIA Portal, Unity Pro)
-- App mobile (Java / Firebase), domotique (ESP32, Arduino)
-- Systèmes embarqués  (VHDL, Assembleur, RTOS, CAN)
+- **Informatique industrielle**, automatismes, signaux (Matlab)
+- **Automates** Siemens/Schneider (TIA Portal, Unity Pro)
+- **Domotique** & systèmes embarqués (Arduino, VHDL, CAN)
